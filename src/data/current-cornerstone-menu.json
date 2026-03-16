@@ -1,13 +1,13 @@
 {
-    "Wk 1": {
+    "wk 4": {
         "Breakfast": {
             "Monday": {
                 "Day of Week": [
                     "Monday"
                 ],
                 "Main Course": [
-                    "Scrambled Eggs",
-                    "Chocolate Chip Pancake",
+                    "Scrambled Eggs with Cheese",
+                    "Texas French Toast",
                     "Turkey Sausage Link",
                     "Tator Tots",
                     "Bacon"
@@ -27,10 +27,10 @@
                     "Tuesday"
                 ],
                 "Main Course": [
-                    "Cheese Omelette",
-                    "Texas French Toast",
+                    "Scrambled Eggs",
+                    "Buttermilk Pancakes",
                     "Turkey Sausage Links",
-                    "Hashbrowns",
+                    "Cheesy Hashbrowns",
                     "Bacon"
                 ],
                 "Grill Station": [
@@ -48,10 +48,10 @@
                     "Wednesday"
                 ],
                 "Main Course": [
-                    "Scrambled Eggs with Cheese",
-                    "Buttermilk Pancakes",
+                    "Blueberry French Toast Casserole",
+                    "Scrambled Eggs",
                     "Turkey Sausage Link",
-                    "Potato O'Brien",
+                    "Roasted Breakfast Potatoes",
                     "Bacon"
                 ],
                 "Grill Station": [
@@ -69,10 +69,11 @@
                     "Thursday"
                 ],
                 "Main Course": [
-                    "Scrambled Eggs with Cheese",
-                    "Texas French Toast",
+                    "Scrambled Eggs",
+                    "Biscuits & Gravy",
+                    "Chocolate Chip Pancakes",
                     "Turkey Sausage Link",
-                    "Cheesy Hashbrowns",
+                    "Vegetarian Breakfast Sausage Patty",
                     "Bacon"
                 ],
                 "Grill Station": [
@@ -90,10 +91,10 @@
                     "Friday"
                 ],
                 "Main Course": [
-                    "Cheddar & Scallion Egg Bake",
-                    "Blueberry Buttermilk Pancakes",
+                    "Scrambled Eggs with Cheese",
+                    "French Toast Sticks",
                     "Turkey Sausage Link",
-                    "Roasted Breakfast Potatoes",
+                    "Creamy Hashbrowns",
                     "Bacon"
                 ],
                 "Grill Station": [
@@ -106,16 +107,18 @@
                     "Assorted Muffins"
                 ]
             }
-        }
-    },
-    "wk 1": {
+        },
         "Lunch": {
             "Monday": {
                 "Day": [
                     "Monday"
                 ],
                 "Main Course": [
-                    "Brooklyn Chopped Cheese"
+                    "Orange Chicken",
+                    "Vegan Orange Chick'n",
+                    "Vegetable Egg Roll",
+                    "Brown & White Rice",
+                    "Mandarin Stir Fry Vegetable Blend"
                 ],
                 "Soups": [
                     "Beef Barley",
@@ -138,10 +141,7 @@
                     "Tuesday"
                 ],
                 "Main Course": [
-                    "Shepherds Pie",
-                    "Roasted Cod",
-                    "Roasted Green Top Carrots",
-                    "Whole Wheat Dinner Rolls"
+                    "Asian Wrap"
                 ],
                 "Soups": [
                     "Beef & Bean Chili",
@@ -164,11 +164,7 @@
                     "Wednesday"
                 ],
                 "Main Course": [
-                    "Philly Cheesesteak Sandwich",
-                    "Vegan Portabella Mushroom Sandwich",
-                    "Chili Crusted Haddock",
-                    "Waffle Fries",
-                    "Steamed Corn"
+                    "Nacho Bar"
                 ],
                 "Soups": [
                     "Black Bean",
@@ -191,10 +187,11 @@
                     "Thursday"
                 ],
                 "Main Course": [
-                    "Open-faced Turkey Sandwich",
-                    "Vegan Chick'n with Vegan Gravy",
-                    "Mashed Potatoes",
-                    "Roasted Brussels Sprouts"
+                    "French Dip Sandwich",
+                    "Vegetarian Grilled Mushroom Sandwich",
+                    "Roasted Cod",
+                    "Kettle Chips",
+                    "Steamed Green Beans"
                 ],
                 "Soups": [
                     "Chicken Tortilla",
@@ -217,16 +214,12 @@
                     "Friday"
                 ],
                 "Main Course": [
-                    "Grilled Ham & Cheese Sandwich",
-                    "Supreme Grilled Cheese Sandwich",
-                    "Roasted Cod",
-                    "Tater Tots",
-                    "Roasted Cauliflower"
+                    "Cheese Quesadilla",
+                    "Chuckwagon Corn with Black Beans"
                 ],
                 "Soups": [
                     "Broccoli & Cheese",
-                    "Chicken Dumpling",
-                    "Tomato"
+                    "Chicken Dumpling"
                 ],
                 "Bakery": [
                     "Assorted Cookies and Bars"
