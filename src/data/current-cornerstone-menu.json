@@ -1,1 +1,245 @@
-{}
+{
+    "Wk 1": {
+        "Breakfast": {
+            "Monday": {
+                "Day of Week": [
+                    "Monday"
+                ],
+                "Main Course": [
+                    "Scrambled Eggs",
+                    "Chocolate Chip Pancake",
+                    "Turkey Sausage Link",
+                    "Tator Tots",
+                    "Bacon"
+                ],
+                "Grill Station": [
+                    "Breakfast Sandwiches"
+                ],
+                "Greens": [
+                    "Breakfast & Waffle Bar"
+                ],
+                "Bakery Station": [
+                    "Assorted Muffins"
+                ]
+            },
+            "Tuesday": {
+                "Day of Week": [
+                    "Tuesday"
+                ],
+                "Main Course": [
+                    "Cheese Omelette",
+                    "Texas French Toast",
+                    "Turkey Sausage Links",
+                    "Hashbrowns",
+                    "Bacon"
+                ],
+                "Grill Station": [
+                    "Breakfast Sandwiches"
+                ],
+                "Greens": [
+                    "Breakfast & Waffle Bar"
+                ],
+                "Bakery Station": [
+                    "Assorted Muffins"
+                ]
+            },
+            "Wednesday": {
+                "Day of Week": [
+                    "Wednesday"
+                ],
+                "Main Course": [
+                    "Scrambled Eggs with Cheese",
+                    "Buttermilk Pancakes",
+                    "Turkey Sausage Link",
+                    "Potato O'Brien",
+                    "Bacon"
+                ],
+                "Grill Station": [
+                    "Breakfast Sandwiches"
+                ],
+                "Greens": [
+                    "Breakfast & Waffle Bar"
+                ],
+                "Bakery Station": [
+                    "Assorted Muffins"
+                ]
+            },
+            "Thursday": {
+                "Day of Week": [
+                    "Thursday"
+                ],
+                "Main Course": [
+                    "Scrambled Eggs with Cheese",
+                    "Texas French Toast",
+                    "Turkey Sausage Link",
+                    "Cheesy Hashbrowns",
+                    "Bacon"
+                ],
+                "Grill Station": [
+                    "Breakfast Sandwiches"
+                ],
+                "Greens": [
+                    "Breakfast & Waffle Bar"
+                ],
+                "Bakery Station": [
+                    "Assorted Muffins"
+                ]
+            },
+            "Friday": {
+                "Day of Week": [
+                    "Friday"
+                ],
+                "Main Course": [
+                    "Cheddar & Scallion Egg Bake",
+                    "Blueberry Buttermilk Pancakes",
+                    "Turkey Sausage Link",
+                    "Roasted Breakfast Potatoes",
+                    "Bacon"
+                ],
+                "Grill Station": [
+                    "Breakfast Sandwiches"
+                ],
+                "Greens": [
+                    "Breakfast & Waffle Bar"
+                ],
+                "Bakery Station": [
+                    "Assorted Muffins"
+                ]
+            }
+        }
+    },
+    "wk 1": {
+        "Lunch": {
+            "Monday": {
+                "Day": [
+                    "Monday"
+                ],
+                "Main Course": [
+                    "Brooklyn Chopped Cheese"
+                ],
+                "Soups": [
+                    "Beef Barley",
+                    "Garden Vegetable"
+                ],
+                "Bakery": [
+                    "Assorted Cookies and Bars"
+                ],
+                "Other Open Stations": [
+                    "Deli",
+                    "Grill",
+                    "Pasta Bar",
+                    "Pizza Bar",
+                    "Soup/Salad Bar",
+                    "Waffles"
+                ]
+            },
+            "Tuesday": {
+                "Day": [
+                    "Tuesday"
+                ],
+                "Main Course": [
+                    "Shepherds Pie",
+                    "Roasted Cod",
+                    "Roasted Green Top Carrots",
+                    "Whole Wheat Dinner Rolls"
+                ],
+                "Soups": [
+                    "Beef & Bean Chili",
+                    "Vegetarian Chili"
+                ],
+                "Bakery": [
+                    "Assorted Cookies and Bars"
+                ],
+                "Other Open Stations": [
+                    "Deli",
+                    "Grill",
+                    "Pasta Bar",
+                    "Pizza Bar",
+                    "Soup/Salad Bar",
+                    "Waffles"
+                ]
+            },
+            "Wednesday": {
+                "Day": [
+                    "Wednesday"
+                ],
+                "Main Course": [
+                    "Philly Cheesesteak Sandwich",
+                    "Vegan Portabella Mushroom Sandwich",
+                    "Chili Crusted Haddock",
+                    "Waffle Fries",
+                    "Steamed Corn"
+                ],
+                "Soups": [
+                    "Black Bean",
+                    "Chicken Enchilada"
+                ],
+                "Bakery": [
+                    "Assorted Cookies and Bars"
+                ],
+                "Other Open Stations": [
+                    "Deli",
+                    "Grill",
+                    "Pasta Bar",
+                    "Pizza Bar",
+                    "Soup/Salad Bar",
+                    "Waffles"
+                ]
+            },
+            "Thursday": {
+                "Day": [
+                    "Thursday"
+                ],
+                "Main Course": [
+                    "Open-faced Turkey Sandwich",
+                    "Vegan Chick'n with Vegan Gravy",
+                    "Mashed Potatoes",
+                    "Roasted Brussels Sprouts"
+                ],
+                "Soups": [
+                    "Chicken Tortilla",
+                    "Red Pepper Gouda"
+                ],
+                "Bakery": [
+                    "Assorted Cookies and Bars"
+                ],
+                "Other Open Stations": [
+                    "Deli",
+                    "Grill",
+                    "Pasta Bar",
+                    "Pizza Bar",
+                    "Soup/Salad Bar",
+                    "Waffles"
+                ]
+            },
+            "Friday": {
+                "Day": [
+                    "Friday"
+                ],
+                "Main Course": [
+                    "Grilled Ham & Cheese Sandwich",
+                    "Supreme Grilled Cheese Sandwich",
+                    "Roasted Cod",
+                    "Tater Tots",
+                    "Roasted Cauliflower"
+                ],
+                "Soups": [
+                    "Broccoli & Cheese",
+                    "Chicken Dumpling",
+                    "Tomato"
+                ],
+                "Bakery": [
+                    "Assorted Cookies and Bars"
+                ],
+                "Other Open Stations": [
+                    "Deli",
+                    "Grill",
+                    "Pasta Bar",
+                    "Pizza Bar",
+                    "Soup/Salad Bar",
+                    "Waffles"
+                ]
+            }
+        }
+    }
+}
