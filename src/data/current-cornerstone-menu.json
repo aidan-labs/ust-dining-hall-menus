@@ -1,13 +1,13 @@
 {
-    "Wk 1": {
+    "wk 2": {
         "Breakfast": {
             "Monday": {
                 "Day of Week": [
                     "Monday"
                 ],
                 "Main Course": [
-                    "Scrambled Eggs",
-                    "Chocolate Chip Pancake",
+                    "Scrambled Eggs with Cheese",
+                    "Texas French Toast",
                     "Turkey Sausage Link",
                     "Tater Tots",
                     "Bacon"
@@ -27,9 +27,51 @@
                     "Tuesday"
                 ],
                 "Main Course": [
-                    "Cheese Omelette",
-                    "Texas French Toast",
-                    "Turkey Sausage Links",
+                    "Scrambled Eggs with Cheese",
+                    "Buttermilk Pancakes",
+                    "Turkey Sausage Link",
+                    "Hashbrown Triangle",
+                    "Bacon"
+                ],
+                "Grill Station": [
+                    "Breakfast Sandwiches"
+                ],
+                "Greens": [
+                    "Breakfast & Waffle Bar"
+                ],
+                "Bakery Station": [
+                    "Assorted Muffins"
+                ]
+            },
+            "Wednesday": {
+                "Day of Week": [
+                    "Wednesday"
+                ],
+                "Main Course": [
+                    "Scrambled Eggs with Cheese",
+                    "French Toast Sticks",
+                    "Turkey Sausage Link",
+                    "Fried Breakfast Potato",
+                    "Bacon"
+                ],
+                "Grill Station": [
+                    "Breakfast Sandwiches"
+                ],
+                "Greens": [
+                    "Breakfast & Waffle Bar"
+                ],
+                "Bakery Station": [
+                    "Assorted Muffins"
+                ]
+            },
+            "Thursday": {
+                "Day of Week": [
+                    "Thursday"
+                ],
+                "Main Course": [
+                    "Strawberry Cream Cheese Casserole",
+                    "Scrambled Eggs",
+                    "Turkey Sausage Link",
                     "Hashbrowns",
                     "Bacon"
                 ],
@@ -43,57 +85,15 @@
                     "Assorted Muffins"
                 ]
             },
-            "Wednesday": {
-                "Day of Week": [
-                    "Wednesday"
-                ],
-                "Main Course": [
-                    "Scrambled Eggs with Cheese",
-                    "Buttermilk Pancakes",
-                    "Turkey Sausage Link",
-                    "Potato O'Brien",
-                    "Bacon"
-                ],
-                "Grill Station": [
-                    "Breakfast Sandwiches"
-                ],
-                "Greens": [
-                    "Breakfast & Waffle Bar"
-                ],
-                "Bakery Station": [
-                    "Assorted Muffins"
-                ]
-            },
-            "Thursday": {
-                "Day of Week": [
-                    "Thursday"
-                ],
-                "Main Course": [
-                    "Scrambled Eggs with Cheese",
-                    "Texas French Toast",
-                    "Turkey Sausage Link",
-                    "Cheesy Hashbrowns",
-                    "Bacon"
-                ],
-                "Grill Station": [
-                    "Breakfast Sandwiches"
-                ],
-                "Greens": [
-                    "Breakfast & Waffle Bar"
-                ],
-                "Bakery Station": [
-                    "Assorted Muffins"
-                ]
-            },
             "Friday": {
                 "Day of Week": [
                     "Friday"
                 ],
                 "Main Course": [
-                    "Cheddar & Scallion Egg Bake",
-                    "Blueberry Buttermilk Pancakes",
+                    "Scrambled Eggs with Cheese",
+                    "Texas French Toast",
                     "Turkey Sausage Link",
-                    "Roasted Breakfast Potatoes",
+                    "Creamy Hashbrowns",
                     "Bacon"
                 ],
                 "Grill Station": [
@@ -106,20 +106,22 @@
                     "Assorted Muffins"
                 ]
             }
-        }
-    },
-    "wk 1": {
+        },
         "Lunch": {
             "Monday": {
                 "Day": [
                     "Monday"
                 ],
                 "Main Course": [
-                    "Brooklyn Chopped Cheese"
+                    "Sesame Chicken",
+                    "Vegan Sesame Chick'n",
+                    "Vegetable Egg Roll",
+                    "White & Brown Rice",
+                    "Mandarin Stir Fry Vegetable Blend"
                 ],
                 "Soups": [
-                    "Beef Barley",
-                    "Garden Vegetable"
+                    "Cream of Mushroom",
+                    "Steak and Pepper"
                 ],
                 "Bakery": [
                     "Assorted Cookies and Bars"
@@ -138,14 +140,13 @@
                     "Tuesday"
                 ],
                 "Main Course": [
-                    "Shepherds Pie",
-                    "Roasted Cod",
-                    "Roasted Green Top Carrots",
-                    "Whole Wheat Dinner Rolls"
+                    "Meatloaf",
+                    "Mashed Potatoes & Beef Gravy",
+                    "Green Beans"
                 ],
                 "Soups": [
-                    "Beef & Bean Chili",
-                    "Vegetarian Chili"
+                    "Chicken Wild Rice",
+                    "Lentil"
                 ],
                 "Bakery": [
                     "Assorted Cookies and Bars"
@@ -164,15 +165,15 @@
                     "Wednesday"
                 ],
                 "Main Course": [
-                    "Philly Cheesesteak Sandwich",
-                    "Vegan Portabella Mushroom Sandwich",
+                    "Chicken Nuggets",
+                    "Vegetarian Chick'n Nuggets",
                     "Chili Crusted Haddock",
-                    "Waffle Fries",
-                    "Steamed Corn"
+                    "Wild Rice Blend",
+                    "Vegetable Blend"
                 ],
                 "Soups": [
-                    "Black Bean",
-                    "Chicken Enchilada"
+                    "Beef Spaetzle",
+                    "Butternut Squash"
                 ],
                 "Bakery": [
                     "Assorted Cookies and Bars"
@@ -191,14 +192,11 @@
                     "Thursday"
                 ],
                 "Main Course": [
-                    "Open-faced Turkey Sandwich",
-                    "Vegan Chick'n with Vegan Gravy",
-                    "Mashed Potatoes",
-                    "Roasted Brussels Sprouts"
+                    "Adobo Chicken Tacos"
                 ],
                 "Soups": [
-                    "Chicken Tortilla",
-                    "Red Pepper Gouda"
+                    "Chicken Noodle",
+                    "Minestrone"
                 ],
                 "Bakery": [
                     "Assorted Cookies and Bars"
@@ -217,16 +215,14 @@
                     "Friday"
                 ],
                 "Main Course": [
-                    "Grilled Ham & Cheese Sandwich",
-                    "Supreme Grilled Cheese Sandwich",
-                    "Roasted Cod",
-                    "Tater Tots",
-                    "Roasted Cauliflower"
+                    "Chicken Enchiladas",
+                    "Cheese Enchiladas",
+                    "Pinto Beans",
+                    "Spanish Rice"
                 ],
                 "Soups": [
-                    "Broccoli & Cheese",
-                    "Chicken Dumpling",
-                    "Tomato"
+                    "New England Clam Chowder",
+                    "Roasted Red Pepper and Gouda"
                 ],
                 "Bakery": [
                     "Assorted Cookies and Bars"
